@@ -42,7 +42,7 @@ let promedio = suma / interacciones
                 alert(`Tu promedio es de ${promedio} no te desanimes, a seguir estudiando`)
                 break;
             case 6: 
-                alert(`Tu promedio es de ${promedio} no te desanimes, a seguir estudiando`)
+                alert(`Tu promedio es de ${promedio} no te desanimes, estuviste muy cerca`)
                 break;
                 default:
                     alert(`Tu promedio es de ${promedio} no te desanimes, a seguir estudiando`)
