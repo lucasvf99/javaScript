@@ -12,3 +12,14 @@ body {
 a.nav-link {
     color: white !important;
 }
+
+#form{
+    display: flex;
+    margin: 50px;
+    justify-content: center;
+}
+
+form>label{
+    padding: 10px;
+    font-size: 20px;
+}
